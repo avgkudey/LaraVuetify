@@ -11,10 +11,6 @@ Laravel 5.8 + Vue 2 + Vuetify 2 Starter Template
 * npm run dev - on separate terminal
 * npm run watch
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Laravel 5.8](https://laravel.com/docs/5.8/) 
