@@ -2,6 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/avgkudey/LaraVuetify)](https://github.com/avgkudey/LaraVuetify/issues)
 [![GitHub stars](https://img.shields.io/github/stars/avgkudey/LaraVuetify)](https://github.com/avgkudey/LaraVuetify/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/avgkudey/LaraVuetify)](https://github.com/avgkudey/LaraVuetify/network)
+
 Laravel 5.8 + Vue 2 + Vuetify 2 Starter Template
 
 ### Installing
