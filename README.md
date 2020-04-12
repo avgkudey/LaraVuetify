@@ -1,6 +1,7 @@
 # LaraVuetify
 
 Laravel 5.8 + Vue 2 + Vuetify 2 Starter Template
+[![GitHub issues](https://img.shields.io/github/issues/avgkudey/LaraVuetify)](https://github.com/avgkudey/LaraVuetify/issues)
 
 ### Installing
 * git clone https://github.com/avgkudey/LaraVuetify.git
